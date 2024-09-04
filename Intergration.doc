@@ -1,0 +1,22 @@
+1. Import Data:
+To import data from your MySQL database into Excel, follow these steps:
+
+Export the Data from MySQL:
+
+Use a query in MySQL to select the necessary data.
+Example query:
+sql
+Copy code
+SELECT * FROM `Mental Health Facilities`;
+SELECT * FROM `Mental Health Disorders`;
+SELECT * FROM `Socioeconomic Data Table`;
+Export the query results as a .csv file from your MySQL workbench or client.
+Import the Data into Excel:
+
+Open Excel and navigate to the Data tab.
+Choose Get Data > From Text/CSV.
+Select the .csv file you exported and import it.
+Clean and Structure Data:
+
+Ensure the data types (numbers, dates, etc.) are correctly formatted in Excel.
+Use Text to Columns (under the Data tab) to separate values if needed.

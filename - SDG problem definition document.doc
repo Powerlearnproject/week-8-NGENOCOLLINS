@@ -1,0 +1,48 @@
+SDG Problem Definition Document
+1. Project Title:
+Investigating the Impact of Mental Health Services on the Prevalence of Mental Health Disorders
+2. Sustainable Development Goal (SDG) Alignment:
+SDG 3: Good Health and Well-Being
+Target 3.4: By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment, and promote mental health and well-being.
+3. Problem Statement:
+Issue: Despite increasing awareness and efforts to address mental health, mental health disorders continue to rise, particularly in underserved regions. This is due to insufficient mental health facilities, lack of accessibility, and inadequate service provision.
+
+Significance: Mental health disorders contribute significantly to the global burden of disease, affecting economic productivity, quality of life, and the well-being of entire populations. There's a clear gap in the availability of services that match the needs of those suffering from mental health disorders.
+
+4. Scope of the Problem:
+Global Impact: Mental health disorders affect over 1 billion people worldwide, with depression being the leading cause of disability globally. Suicide is the second leading cause of death among 15-29-year-olds.
+
+Regional Focus: In low-income and underserved regions, mental health facilities are scarce, and access to treatment is highly limited. The correlation between socioeconomic factors and mental health disorder prevalence is particularly evident in these areas.
+
+5. Data and Research Objectives:
+Objective 1: Investigate the availability and distribution of mental health facilities across different regions.
+
+Objective 2: Analyze the relationship between mental health service availability and the prevalence of specific mental health disorders, using socioeconomic factors as a contextual layer.
+
+Objective 3: Provide insights into how resource allocation and facility expansion can reduce the burden of mental health disorders in target regions.
+
+6. Key Data Sources:
+Mental Health Facility Data: Information on the number, type, and capacity of mental health facilities by region.
+
+Mental Health Disorder Prevalence Data: Statistics on the prevalence rates of various mental health disorders (e.g., depression, anxiety, schizophrenia) categorized by demographic factors such as age and gender.
+
+Socioeconomic Data: Regional data on average income, employment rates, education levels, and poverty rates to understand how these factors correlate with mental health disorder prevalence.
+
+7. Hypothesis:
+Regions with better access to mental health services have lower prevalence rates of mental health disorders. Socioeconomic factors like income, employment rate, and education level further influence these rates.
+8. Solution Approach:
+Database Design: Create a relational database to store mental health facilities, disorder prevalence, and socioeconomic data.
+
+Data Analysis: Conduct data analysis using SQL to explore relationships between facility availability and disorder prevalence.
+
+Visualization and Reporting: Use Excel to visualize data and create a dashboard that highlights key insights and potential solutions for addressing the mental health service gap.
+
+9. Expected Outcomes:
+Identification of Gaps: Regions with limited mental health facilities will be identified, and correlations with high disorder prevalence rates will be highlighted.
+
+Strategic Recommendations: Provide actionable insights for policy makers to improve the allocation of mental health resources and reduce the prevalence of mental health disorders.
+
+SDG Alignment: The research will contribute towards achieving SDG Target 3.4 by providing evidence-based recommendations to promote mental health and well-being.
+
+10. Conclusion:
+This project aims to address a critical gap in the understanding of mental health service availability and its impact on disorder prevalence, with the ultimate goal of influencing policy and resource allocation to improve mental health outcomes globally.
